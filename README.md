@@ -41,8 +41,4 @@ It helps healthcare professionals easily manage patient records, appointments, a
 
 ---
 
-## ⚙️ Installation & Setup
 
-Clone the repository:
-```bash
-git clone https://github.com/koushikshet2401/MediFlow.git
